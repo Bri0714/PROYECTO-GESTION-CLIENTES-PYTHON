@@ -1,0 +1,11 @@
+instalacion pip
+
+https://recursospython.com/guias-y-manuales/instalacion-y-utilizacion-de-pip-en-windows-linux-y-os-x/
+
+
+instalacion libreria
+
+pip install pyyaml
+pip3 install pyyaml
+
+https://www.delftstack.com/es/howto/python/python-pretty-print-dictionary/
